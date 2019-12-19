@@ -1,7 +1,0 @@
----
-
-layout: search
-
----
-
-Hello

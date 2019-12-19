@@ -1,8 +1,0 @@
----
-
-layout: single
-
----
-
-
-About me.
