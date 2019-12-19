@@ -114,7 +114,7 @@ comments:
   provider: "utterances"
   utterances:
     theme: "github-light" # "github-dark"
-    issue_term: "ppp"
+    issue_term: "✨💬✨"
 
 category_archive:
   type: liquid
