@@ -110,11 +110,17 @@ defaults:
       layout: single
       author_profile: true
 
+
 comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light" # "github-dark"
-    issue_term: "✨💬✨"
+  provider: "disqus"
+  disqus:
+    shortname: "fspore"
+      
+#comments:
+ #provider: "utterances"
+ #utterances:
+   #theme: "github-light" # "github-dark"
+   #issue_term: "✨💬✨"
 
 category_archive:
   type: liquid
